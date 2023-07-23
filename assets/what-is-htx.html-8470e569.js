@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-66f21c20","path":"/what-is-htx.html","title":"What is Htx?","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"what-is-htx.md"}');export{t as data};

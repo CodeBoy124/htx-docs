@@ -1,0 +1,1 @@
+const l=JSON.parse('{"key":"v-cb4aacd2","path":"/install.html","title":"Installation","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Requirements","slug":"requirements","link":"#requirements","children":[]},{"level":2,"title":"Installing","slug":"installing","link":"#installing","children":[]}],"git":{},"filePathRelative":"install.md"}');export{l as data};
